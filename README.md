@@ -10,9 +10,9 @@ Performing regression of several degrees on generated data points affected by wh
 ## [Logistic_Regression](https://github.com/fardinabbasi/Logistic_Regression)
 Implementing logistic regression with **L2** Regularization **from scratch** to classify two circular datasets.
 ## [Neural_Networks](https://github.com/fardinabbasi/Neural_Networks)
-### Multi Layer Perceptron
+### [Multi Layer Perceptron](https://github.com/fardinabbasi/Neural_Networks/tree/MLP)
 Performing an MLP model on the ECG signals dataset.
-### Convolutional Neural Networks
+### [Convolutional Neural Networks](https://github.com/fardinabbasi/Neural_Networks/tree/CNN)
 Performing a CNN model on the CIFAR-10 image dataset.
 ## [PCA](https://github.com/fardinabbasi/PCA)
 Performing PCA on the "emotion_detection" dataset contains 213 images with 6 labels: Happy, Fear, Angry, Disgust, Surprise, and Sad.
