@@ -14,3 +14,9 @@ Implementing logistic regression with **L2** Regularization **from scratch** to 
 Performing an MLP model on the ECG signals dataset.
 ### Convolutional Neural Networks
 Performing a CNN model on the CIFAR-10 image dataset.
+## [PCA](https://github.com/fardinabbasi/PCA)
+Performing PCA on the "emotion_detection" dataset contains 213 images with 6 labels: Happy, Fear, Angry, Disgust, Surprise, and Sad.
+## [ParzenWindow](https://github.com/fardinabbasi/ParzenWindow)
+Performing **non-parametric Parzen Window estimation** on the 'ted_main.csv' dataset, both **from scratch** and using **built-in** functions.
+## [SVM](https://github.com/fardinabbasi/SVM)
+Performing Support Vector Classification (SVC) on the iris dataset.
