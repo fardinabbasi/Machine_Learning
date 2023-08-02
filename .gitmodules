@@ -7,3 +7,6 @@
 [submodule "PCA"]
 	path = PCA
 	url = https://github.com/fardinabbasi/PCA
+[submodule "Decision_Tree"]
+	path = Decision_Tree
+	url = https://github.com/fardinabbasi/Decision_Tree
