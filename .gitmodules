@@ -13,3 +13,6 @@
 [submodule "Neural_Networks"]
 	path = Neural_Networks
 	url = https://github.com/fardinabbasi/Neural_Networks
+[submodule "ParzenWindow"]
+	path = ParzenWindow
+	url = https://github.com/fardinabbasi/ParzenWindow
