@@ -4,3 +4,6 @@
 [submodule "Expectation_Maximization"]
 	path = Expectation_Maximization
 	url = https://github.com/fardinabbasi/Expectation_Maximization
+[submodule "PCA"]
+	path = PCA
+	url = https://github.com/fardinabbasi/PCA
