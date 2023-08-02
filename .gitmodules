@@ -1,0 +1,3 @@
+[submodule "SVM"]
+	path = SVM
+	url = https://github.com/fardinabbasi/SVM
