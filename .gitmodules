@@ -22,3 +22,6 @@
 [submodule "Logistic_Regression"]
 	path = Logistic_Regression
 	url = https://github.com/fardinabbasi/Logistic_Regression
+[submodule "Bayes_Classifier"]
+	path = Bayes_Classifier
+	url = https://github.com/fardinabbasi/Bayes_Classifier
