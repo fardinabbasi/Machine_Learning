@@ -19,3 +19,6 @@
 [submodule "Linear_Regression"]
 	path = Linear_Regression
 	url = https://github.com/fardinabbasi/Linear_Regression
+[submodule "Logistic_Regression"]
+	path = Logistic_Regression
+	url = https://github.com/fardinabbasi/Logistic_Regression
