@@ -10,3 +10,6 @@
 [submodule "Decision_Tree"]
 	path = Decision_Tree
 	url = https://github.com/fardinabbasi/Decision_Tree
+[submodule "Neural_Networks"]
+	path = Neural_Networks
+	url = https://github.com/fardinabbasi/Neural_Networks
