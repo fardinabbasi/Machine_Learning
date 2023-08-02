@@ -1,3 +1,6 @@
 [submodule "SVM"]
 	path = SVM
 	url = https://github.com/fardinabbasi/SVM
+[submodule "Expectation_Maximization"]
+	path = Expectation_Maximization
+	url = https://github.com/fardinabbasi/Expectation_Maximization
