@@ -16,3 +16,6 @@
 [submodule "ParzenWindow"]
 	path = ParzenWindow
 	url = https://github.com/fardinabbasi/ParzenWindow
+[submodule "Linear_Regression"]
+	path = Linear_Regression
+	url = https://github.com/fardinabbasi/Linear_Regression
