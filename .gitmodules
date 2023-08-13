@@ -25,3 +25,6 @@
 [submodule "Bayes_Classifier"]
 	path = Bayes_Classifier
 	url = https://github.com/fardinabbasi/Bayes_Classifier
+[submodule "ML_Fake_Image_Detection"]
+	path = ML_Fake_Image_Detection
+	url = https://github.com/fardinabbasi/ML_Fake_Image_Detection
