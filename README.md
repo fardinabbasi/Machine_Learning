@@ -1,5 +1,5 @@
 # Machine Learning
-## [ML_Fake_Image_Detection](https://github.com/fardinabbasi/Machine_Learning)
+## [ML_Fake_Image_Detection](https://github.com/fardinabbasi/ML_Fake_Image_Detection)
 **Feature extraction** of 'real' and 'fake' images and implementation of the best classification method (using various machine learning models such as **Random Forest**, **SVM**, and **Logistic Regression**) to identify fake images.
 ## [Bayes_Classifier](https://github.com/fardinabbasi/Bayes_Classifier)
 Conducting **one-vs-all** classification on the 'penguins.csv' dataset using both the **Naive Bayes classifier** implemented **from scratch** and the one provided by **Scikit-Learn's built-in** functions.
