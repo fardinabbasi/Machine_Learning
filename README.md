@@ -11,10 +11,10 @@ Implementation of **EM algorithm**, and performing **GMM estimation** on an imag
 Performing regression of several degrees on generated data points affected by white and Poisson noise. Additionally, studying its **MSE loss** and **bias-variance trade-off**.
 ## [Logistic_Regression](https://github.com/fardinabbasi/Logistic_Regression)
 Implementing logistic regression with **L2** Regularization **from scratch** to classify two circular datasets.
-## [Neural_Networks](https://github.com/fardinabbasi/Neural_Networks)
-### [Multi Layer Perceptron](https://github.com/fardinabbasi/Neural_Networks/tree/MLP)
+## [Neural_Networks](https://github.com/fardinabbasi/Neural_Network)
+### [Multi Layer Perceptron](https://github.com/fardinabbasi/Neural_Networks/tree/main/MLP)
 Performing an MLP model on the ECG signals dataset.
-### [Convolutional Neural Networks](https://github.com/fardinabbasi/Neural_Networks/tree/CNN)
+### [Convolutional Neural Networks](https://github.com/fardinabbasi/Neural_Networks/tree/main/CNN)
 Performing a CNN model on the CIFAR-10 image dataset.
 ## [PCA](https://github.com/fardinabbasi/PCA)
 Performing PCA on the "emotion_detection" dataset contains 213 images with 6 labels: Happy, Fear, Angry, Disgust, Surprise, and Sad.
