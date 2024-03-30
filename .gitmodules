@@ -25,3 +25,6 @@
 [submodule "ML_Fake_Image_Detection"]
 	path = ML_Fake_Image_Detection
 	url = https://github.com/fardinabbasi/ML_Fake_Image_Detection
+[submodule "Neural_Networks"]
+	path = Neural_Networks
+	url = https://github.com/fardinabbasi/Neural_Networks
