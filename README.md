@@ -22,3 +22,7 @@ Performing PCA on the "emotion_detection" dataset contains 213 images with 6 lab
 Performing **non-parametric Parzen Window estimation** on the 'ted_main.csv' dataset, both **from scratch** and using **built-in** functions.
 ## [SVM](https://github.com/fardinabbasi/SVM)
 Performing Support Vector Classification (SVC) on the iris dataset.
+## [KNN](https://github.com/fardinabbasi/KNN)
+Implementation and analysis of K-Nearest Neighbors with varying values of K, including a study on the impact of metric learning using LMNN and LFDA algorithms.
+## [K-Means](https://github.com/fardinabbasi/K_means)
+Implementation of K-Means++ and K-Medians++ clustering algorithms, including an analysis of their performance across various values of K.
