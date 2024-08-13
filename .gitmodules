@@ -28,3 +28,6 @@
 [submodule "Neural_Networks"]
 	path = Neural_Networks
 	url = https://github.com/fardinabbasi/Neural_Networks
+[submodule "K_means"]
+	path = K_means
+	url = https://github.com/fardinabbasi/K_means
