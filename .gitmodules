@@ -31,3 +31,6 @@
 [submodule "K_means"]
 	path = K_means
 	url = https://github.com/fardinabbasi/K_means
+[submodule "KNN"]
+	path = KNN
+	url = https://github.com/fardinabbasi/KNN
